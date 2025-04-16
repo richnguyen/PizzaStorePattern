@@ -1,0 +1,92 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"07792da8-edfa-48ac-867c-11bfc0cf3e4c\" name=\"Changes\" comment=\"Upload to remote from original local repo.\">\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/build.gradle\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/gradlew\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/gradlew.bat\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/settings.gradle\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Cheese.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/CheesePizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoPizzaIngredientFactory.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoPizzaStore.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoStyleCheesePizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoStylePepperoniPizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoStyleVeggiePizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Dough.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Garlic.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/MarianaSauce.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/MozzarellaCheese.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Mushroom.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYPizzaIngredientFactory.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYPizzaStore.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Onion.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Pepperoni.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PepperoniPizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Pizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PizzaIngredientFactory.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PizzaStore.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PlumTomatoSauce.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/RedPepper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ReggianoCheese.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Sauce.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/SlicedPepperoni.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ThickCrustDough.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ThinCrustDough.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/VeggiePizza.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Veggies.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2vjgYeFbuyU76QcQiZtYGTQ3lO0\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"edu.virginia.cs.sde.designpatterns\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"edu.virginia.cs.sde.designpatterns\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"07792da8-edfa-48ac-867c-11bfc0cf3e4c\" name=\"Changes\" comment=\"\" />\n      <created>1744663946265</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1744663946265</updated>\n      <workItem from=\"1744663947506\" duration=\"5410000\" />\n      <workItem from=\"1744683566673\" duration=\"5314000\" />\n      <workItem from=\"1744725892875\" duration=\"4529000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Upload to remote from original local repo.\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Upload to remote from original local repo.\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,50 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="07792da8-edfa-48ac-867c-11bfc0cf3e4c" name="Changes" comment="Upload to remote from original local repo.">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Cheese.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/CheesePizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoPizzaStore.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoStyleCheesePizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoStylePepperoniPizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoStyleVeggiePizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Dough.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Garlic.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/MarianaSauce.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/MozzarellaCheese.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Mushroom.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYPizzaIngredientFactory.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYPizzaStore.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Onion.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Pepperoni.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PepperoniPizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Pizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PizzaIngredientFactory.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PizzaStore.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PlumTomatoSauce.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/RedPepper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ReggianoCheese.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Sauce.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/SlicedPepperoni.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ThickCrustDough.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ThinCrustDough.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/VeggiePizza.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Veggies.java" afterDir="false" />
+-    </list>
++    <list default="true" id="07792da8-edfa-48ac-867c-11bfc0cf3e4c" name="Changes" comment="Upload to remote from original local repo." />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -106,8 +63,30 @@
+       <updated>1744663946265</updated>
+       <workItem from="1744663947506" duration="5410000" />
+       <workItem from="1744683566673" duration="5314000" />
+-      <workItem from="1744725892875" duration="4529000" />
++      <workItem from="1744725892875" duration="5324000" />
++    </task>
++    <task id="LOCAL-00001" summary="Upload to remote from original local repo.">
++      <created>1744835123241</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1744835123241</updated>
++    </task>
++    <task id="LOCAL-00002" summary="Upload to remote from original local repo.">
++      <created>1744835154040</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1744835154040</updated>
+     </task>
++    <task id="LOCAL-00003" summary="Upload to remote from original local repo.">
++      <created>1744835178101</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1744835178101</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">

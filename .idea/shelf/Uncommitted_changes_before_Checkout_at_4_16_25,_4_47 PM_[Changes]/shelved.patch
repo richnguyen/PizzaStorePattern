@@ -1,0 +1,62 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectModuleManager\">\n    <modules>\n      <module fileurl=\"file://$PROJECT_DIR$/CreationalDesignPatterns.iml\" filepath=\"$PROJECT_DIR$/CreationalDesignPatterns.iml\" />\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.main.iml\" filepath=\"$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.main.iml\" />\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.test.iml\" filepath=\"$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.test.iml\" />\n    </modules>\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	
++++ b/.idea/modules.xml	
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.iml" />
+       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CreationalDesignPatterns.test.iml" />
+     </modules>
+Index: .idea/modules/CreationalDesignPatterns.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module external.linked.project.id=\"CreationalDesignPatterns:main\" external.linked.project.path=\"$MODULE_DIR$/../..\" external.root.project.path=\"$MODULE_DIR$/../..\" external.system.id=\"GRADLE\" external.system.module.group=\"edu.virginia.cs.sde.designpatterns\" external.system.module.type=\"sourceSet\" external.system.module.version=\"1.0-SNAPSHOT\" type=\"JAVA_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\">\n    <output url=\"file://$MODULE_DIR$/../../build/classes/java/main\" />\n    <exclude-output />\n    <content url=\"file://$MODULE_DIR$/../../src/main\">\n      <sourceFolder url=\"file://$MODULE_DIR$/../../src/main/java\" isTestSource=\"false\" />\n      <sourceFolder url=\"file://$MODULE_DIR$/../../src/main/resources\" type=\"java-resource\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n  </component>\n</module>
+===================================================================
+diff --git a/.idea/modules/CreationalDesignPatterns.main.iml b/.idea/modules/CreationalDesignPatterns.main.iml
+--- a/.idea/modules/CreationalDesignPatterns.main.iml	
++++ b/.idea/modules/CreationalDesignPatterns.main.iml	
+@@ -7,6 +7,10 @@
+       <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+       <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+     </content>
++    <content url="file://$MODULE_DIR$/../../src/main">
++      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
++      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
++    </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+Index: .idea/modules/CreationalDesignPatterns.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module external.linked.project.id=\"CreationalDesignPatterns:test\" external.linked.project.path=\"$MODULE_DIR$/../..\" external.root.project.path=\"$MODULE_DIR$/../..\" external.system.id=\"GRADLE\" external.system.module.group=\"edu.virginia.cs.sde.designpatterns\" external.system.module.type=\"sourceSet\" external.system.module.version=\"1.0-SNAPSHOT\" type=\"JAVA_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\">\n    <output-test url=\"file://$MODULE_DIR$/../../build/classes/java/test\" />\n    <exclude-output />\n    <content url=\"file://$MODULE_DIR$/../../src/test\">\n      <sourceFolder url=\"file://$MODULE_DIR$/../../src/test/java\" isTestSource=\"true\" />\n      <sourceFolder url=\"file://$MODULE_DIR$/../../src/test/resources\" type=\"java-test-resource\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n    <orderEntry type=\"module\" module-name=\"CreationalDesignPatterns.main\" />\n    <orderEntry type=\"library\" name=\"Gradle: org.junit.jupiter:junit-jupiter-api:5.8.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Gradle: org.junit.platform:junit-platform-commons:1.8.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Gradle: org.opentest4j:opentest4j:1.2.0\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"PROVIDED\" name=\"Gradle: org.apiguardian:apiguardian-api:1.1.2\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"RUNTIME\" name=\"Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.1\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"RUNTIME\" name=\"Gradle: org.junit.platform:junit-platform-engine:1.8.1\" level=\"project\" />\n  </component>\n</module>
+===================================================================
+diff --git a/.idea/modules/CreationalDesignPatterns.test.iml b/.idea/modules/CreationalDesignPatterns.test.iml
+--- a/.idea/modules/CreationalDesignPatterns.test.iml	
++++ b/.idea/modules/CreationalDesignPatterns.test.iml	
+@@ -7,6 +7,10 @@
+       <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+       <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+     </content>
++    <content url="file://$MODULE_DIR$/../../src/test">
++      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
++      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
++    </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+     <orderEntry type="module" module-name="CreationalDesignPatterns.main" />
+@@ -17,4 +21,5 @@
+     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.1" level="project" />
+     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.8.1" level="project" />
+   </component>
++  <component name="TestModuleProperties" production-module="CreationalDesignPatterns.main" />
+ </module>
+\ No newline at end of file
