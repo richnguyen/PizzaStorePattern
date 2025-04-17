@@ -10,10 +10,6 @@ public class ChicagoPizzaStore extends PizzaStore {
     protected Pizza createPizza(String item) {
         Pizza pizza;
         switch (item) {
-            case "cheese" -> {
-                pizza = new ChicagoStyleCheesePizza(ingredientFactory);
-                pizza.setName("Chicago Style Cheese Pizza");
-            }
             case "veggie" -> {
                 pizza = new ChicagoStyleVeggiePizza(ingredientFactory);
                 pizza.setName("Chicago Style Veggie Pizza");
@@ -22,7 +18,7 @@ public class ChicagoPizzaStore extends PizzaStore {
                 pizza = new ChicagoStylePepperoniPizza(ingredientFactory);
                 pizza.setName("Chicago Style Pepperoni Pizza");
             }
-            default -> {
+            default -> { //cheese pizza!
                 pizza = new ChicagoStyleCheesePizza(ingredientFactory);
                 pizza.setName("Chicago Style Cheese Pizza");
             }
