@@ -11,15 +11,15 @@ public class ChicagoPizzaStore extends PizzaStore {
         Pizza pizza;
         switch (item) {
             case "veggie" -> {
-                pizza = new ChicagoStyleVeggiePizza(ingredientFactory);
+                pizza = new ChicagoVeggiePizza(ingredientFactory);
                 pizza.setName("Chicago Style Veggie Pizza");
             }
             case "pepperoni" -> {
-                pizza = new ChicagoStylePepperoniPizza(ingredientFactory);
+                pizza = new ChicagoPepperoniPizza(ingredientFactory);
                 pizza.setName("Chicago Style Pepperoni Pizza");
             }
             default -> { //cheese pizza!
-                pizza = new ChicagoStyleCheesePizza(ingredientFactory);
+                pizza = new ChicagoCheesePizza(ingredientFactory);
                 pizza.setName("Chicago Style Cheese Pizza");
             }
         }

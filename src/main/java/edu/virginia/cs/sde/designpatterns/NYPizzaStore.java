@@ -12,15 +12,15 @@ public class NYPizzaStore extends PizzaStore {
 
         switch (item) {
             case "veggie" -> {
-                pizza = new NYStyleVeggiePizza(ingredientFactory);
+                pizza = new NYVeggiePizza(ingredientFactory);
                 pizza.setName("New York Style Veggies Pizza");
             }
             case "pepperoni" -> {
-                pizza = new NYStylePepperoniPizza(ingredientFactory);
+                pizza = new NYPepperoniPizza(ingredientFactory);
                 pizza.setName("New York Style Pepperoni Pizza");
             }
             default -> { //cheese pizza
-                pizza = new NYStyleCheesePizza(ingredientFactory);
+                pizza = new NYCheesePizza(ingredientFactory);
                 pizza.setName("New York Style Cheese Pizza");
             }
         }

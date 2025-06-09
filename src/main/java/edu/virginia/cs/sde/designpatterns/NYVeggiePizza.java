@@ -1,9 +1,9 @@
 package edu.virginia.cs.sde.designpatterns;
 
-public class NYStyleCheesePizza extends Pizza{
+public class NYVeggiePizza extends Pizza{
     PizzaIngredientFactory ingredientFactory;
 
-    public NYStyleCheesePizza(PizzaIngredientFactory ingredientFactory) {
+    public NYVeggiePizza(PizzaIngredientFactory ingredientFactory) {
         this.ingredientFactory = ingredientFactory;
     }
 
@@ -13,6 +13,6 @@ public class NYStyleCheesePizza extends Pizza{
         System.out.println("Preparing " + name);
         dough = ingredientFactory.createDough();
         sauce = ingredientFactory.createSauce();
-        cheese = ingredientFactory.createCheese();
+        veggies = ingredientFactory.createVeggie();
     }
 }

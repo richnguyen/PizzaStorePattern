@@ -1,9 +1,9 @@
 package edu.virginia.cs.sde.designpatterns;
 
-public class NYStylePepperoniPizza extends Pizza{
+public class NYPepperoniPizza extends Pizza{
     PizzaIngredientFactory ingredientFactory;
 
-    public NYStylePepperoniPizza(PizzaIngredientFactory ingredientFactory) {
+    public NYPepperoniPizza(PizzaIngredientFactory ingredientFactory) {
         this.ingredientFactory = ingredientFactory;
     }
 
