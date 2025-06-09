@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"07792da8-edfa-48ac-867c-11bfc0cf3e4c\" name=\"Changes\" comment=\"Add some instructions\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Sauce.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Sauce.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"CreationalDesignPatterns\" type=\"f1a62948:ProjectNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2vjgYeFbuyU76QcQiZtYGTQ3lO0\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"last_opened_file_path\": \"/Users/nn4pj/Documents/IdeaProjects/CreationalDesignPatterns\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"edu.virginia.cs.sde.designpatterns\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"edu.virginia.cs.sde.designpatterns\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"07792da8-edfa-48ac-867c-11bfc0cf3e4c\" name=\"Changes\" comment=\"\" />\n      <created>1744663946265</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1744663946265</updated>\n      <workItem from=\"1744663947506\" duration=\"5410000\" />\n      <workItem from=\"1744683566673\" duration=\"5314000\" />\n      <workItem from=\"1744725892875\" duration=\"4529000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Add some instructions\">\n      <created>1744857944635</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1744857944635</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Upload to remote from original local repo.\" />\n    <MESSAGE value=\"Add some instructions\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add some instructions\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2c6b2eed5a48d530a1e9493bfc01ef9e715b0043)
++++ b/.idea/workspace.xml	(date 1749441111760)
+@@ -4,9 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="07792da8-edfa-48ac-867c-11bfc0cf3e4c" name="Changes" comment="Add some instructions">
++    <list default="true" id="07792da8-edfa-48ac-867c-11bfc0cf3e4c" name="Changes" comment="Changed the NY style pizzas for Cheese, Pepperoni, and Veggie.&#10;Make Sauce, Dough, Cheese, and Veggie abstract classes.">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/Sauce.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -100,7 +99,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1744857944635</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Changed the NY style pizzas for Cheese, Pepperoni, and Veggie.&#10;Make Sauce, Dough, Cheese, and Veggie abstract classes.">
++      <created>1749440342794</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1749440342794</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -120,6 +126,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Upload to remote from original local repo." />
+     <MESSAGE value="Add some instructions" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Add some instructions" />
++    <MESSAGE value="Changed the NY style pizzas for Cheese, Pepperoni, and Veggie.&#10;Make Sauce, Dough, Cheese, and Veggie abstract classes." />
++    <option name="LAST_COMMIT_MESSAGE" value="Changed the NY style pizzas for Cheese, Pepperoni, and Veggie.&#10;Make Sauce, Dough, Cheese, and Veggie abstract classes." />
+   </component>
+ </project>
+\ No newline at end of file
