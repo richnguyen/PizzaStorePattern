@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07792da8-edfa-48ac-867c-11bfc0cf3e4c" name="Changes" comment="Add some instructions">
+    <list default="true" id="07792da8-edfa-48ac-867c-11bfc0cf3e4c" name="Changes" comment="Remove redundancy in switch statement of NYPizzaStore and ChicagoPizzaStore by moving cheese pizza as a default choice.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/DependentPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_16_25,_4_49 PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_16_25__4_49PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYStyleCheesePizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/sde/designpatterns/NYStyleVeggiePizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +97,10 @@
       <workItem from="1744663947506" duration="5410000" />
       <workItem from="1744683566673" duration="5314000" />
       <workItem from="1744725892875" duration="4529000" />
+      <workItem from="1745856713208" duration="5238000" />
+      <workItem from="1745875881304" duration="654000" />
+      <workItem from="1745890314847" duration="1227000" />
+      <workItem from="1747492605611" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="Add some instructions">
       <created>1744857944635</created>
@@ -100,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1744857944635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove redundancy in switch statement of NYPizzaStore and ChicagoPizzaStore by moving cheese pizza as a default choice.">
+      <created>1744858314362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744858314362</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload to remote from original local repo." />
     <MESSAGE value="Add some instructions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add some instructions" />
+    <MESSAGE value="Remove redundancy in switch statement of NYPizzaStore and ChicagoPizzaStore by moving cheese pizza as a default choice." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove redundancy in switch statement of NYPizzaStore and ChicagoPizzaStore by moving cheese pizza as a default choice." />
   </component>
 </project>
